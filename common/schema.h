@@ -513,6 +513,7 @@ namespace swss {
 #define STATE_TRANSCEIVER_INFO_TABLE_NAME           "TRANSCEIVER_INFO"
 
 // ACL table and ACL rule table
+#define STATE_ACL_TABLE_TYPE_TABLE_NAME             "ACL_TABLE_TYPE_TABLE"
 #define STATE_ACL_TABLE_TABLE_NAME                  "ACL_TABLE_TABLE"
 #define STATE_ACL_RULE_TABLE_NAME                   "ACL_RULE_TABLE"
 
